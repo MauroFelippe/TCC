@@ -175,7 +175,7 @@
 	\end{flushright}
 	\vfill
 	{\bfseries \large Rio de Janeiro,\\
-		Novembro de 2024}
+		Novembro de 2025}
 }
 
 %dcoverback
@@ -210,7 +210,7 @@
 	\end{flushright}
 	\vfill
 	{\bfseries \large Rio de Janeiro,\\
-		Novembro de 2024}
+		Novembro de 2025}
 }
 %dform
 
