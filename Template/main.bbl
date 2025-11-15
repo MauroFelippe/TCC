@@ -1,8 +1,54 @@
-\begin{thebibliography}{0}
+\begin{thebibliography}{9}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Davenport(2018)]{davenport2018}
+Thomas~H. Davenport.
+\newblock \emph{Analytics at Work: Smarter Decisions, Better Results}.
+\newblock Harvard Business Press, 2018.
+
+\bibitem[Gil(2019)]{gil2019}
+Antonio~Carlos Gil.
+\newblock \emph{Métodos e Técnicas de Pesquisa Social}.
+\newblock Atlas, 7 edition, 2019.
+
+\bibitem[Laudon and Kenneth(2020)]{laudon2020}
+Laudon Laudon and Jane Kenneth.
+\newblock \emph{Sistemas de Informação Gerenciais}.
+\newblock Pearson, 15 edition, 2020.
+
+\bibitem[Pressman and Maxim(2016)]{pressman2016}
+Roger Pressman and Bruce Maxim.
+\newblock \emph{Engenharia de Software}.
+\newblock AMGH, 8 edition, 2016.
+
+\bibitem[Rezende and Abreu(2017)]{rezende2017}
+Denis~Alcides Rezende and Aline França~de Abreu.
+\newblock \emph{Tecnologia da Informação Aplicada a Sistemas de Informação
+  Empresariais}.
+\newblock Atlas, 10 edition, 2017.
+
+\bibitem[Schwab(2016)]{schwab2016}
+Klaus Schwab.
+\newblock \emph{A Quarta Revolução Industrial}.
+\newblock Edipro, 2016.
+
+\bibitem[Stair and Reynolds(2018)]{stair2018}
+Ralph Stair and George Reynolds.
+\newblock \emph{Princípios de Sistemas de Informação}.
+\newblock Cengage Learning, 12 edition, 2018.
+
+\bibitem[Turban et~al.(2010)Turban, Sharda, and Delen]{turban2010}
+Efraim Turban, Ramesh Sharda, and Dursun Delen.
+\newblock \emph{Decision Support and Business Intelligence Systems}.
+\newblock Prentice Hall, 9 edition, 2010.
+
+\bibitem[Yin(2015)]{yin2015}
+Robert Yin.
+\newblock \emph{Estudo de Caso: Planejamento e Métodos}.
+\newblock Bookman, 5 edition, 2015.
 
 \end{thebibliography}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.17)  1 NOV 2025 13:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.17)  15 NOV 2025 14:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1536,7 +1536,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [2
 
 ]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 26.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 30.
  (C:\Users\Pichau\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
@@ -1611,11 +1611,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [9
 
-] (main.bbl
-
-Package natbib Warning: Empty `thebibliography' environment on input line 8.
-
-)
+] (main.bbl)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1626,7 +1622,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [10
 
 ]
-runsystem(latexminted cleantemp  --timestamp 20251101135651 FAD58DE7366495DB4650CFEFAC2FCD61)...disabled (restricted).
+runsystem(latexminted cleantemp  --timestamp 20251115143812 FAD58DE7366495DB4650CFEFAC2FCD61)...disabled (restricted).
 
  (main.aux)
  ***********
@@ -1637,17 +1633,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: B8B259EFD01B1943A18C2EB270883DB6;2065.
  ) 
 Here is how much of TeX's memory you used:
- 46747 strings out of 474486
- 995319 string characters out of 5743282
- 1935542 words of memory out of 5000000
- 68262 multiletter control sequences out of 15000+600000
+ 46787 strings out of 474486
+ 995990 string characters out of 5743282
+ 1934542 words of memory out of 5000000
+ 68293 multiletter control sequences out of 15000+600000
  597612 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 93i,11n,96p,788b,624s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,11n,96p,788b,622s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Pichau/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Pichau/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Pichau/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (19 pages, 81328 bytes).
+Output written on main.pdf (19 pages, 95413 bytes).
 PDF statistics:
- 183 PDF objects out of 1000 (max. 8388607)
- 34 named destinations out of 1000 (max. 500000)
+ 222 PDF objects out of 1000 (max. 8388607)
+ 43 named destinations out of 1000 (max. 500000)
  125 words of extra memory for PDF output out of 10000 (max. 10000000)
 
