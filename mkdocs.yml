@@ -7,25 +7,25 @@ theme:
   name: material
 
 nav:
-- Bem Vindo: index.md
-- Orientações iniciais: orientacoes_iniciais.md
-- Configuração ambiente: configuracao_ambiente.md
-- Referencias e Citações: referencias_citacoes.md
-- Estrutura:
-  - Visão Geral: estrutura/index.md
-  - Introdução: estrutura/introducao.md
-  - Fundamentação Teórica: estrutura/fundamentacao_teorica.md
-  - Revisão da Literatura/Trabalhos Relacionados: estrutura/revisao_literatura_trabalhos_relacionados.md
-  - Proposta: estrutura/proposta.md
-  - Conclusao: estrutura/conclusao.md
-- PICOC: picoc.md
-- Rapid Review: rapid_review.md
+  - Bem Vindo: index.md
+  - Orientações iniciais: orientacoes_iniciais.md
+  - Configuração ambiente: configuracao_ambiente.md
+  - Referencias e Citações: referencias_citacoes.md
+  - Estrutura:
+      - Visão Geral: estrutura/index.md
+      - Introdução: estrutura/introducao.md
+      - Fundamentação Teórica: estrutura/fundamentacao_teorica.md
+      - Revisão da Literatura/Trabalhos Relacionados: estrutura/revisao_literatura_trabalhos_relacionados.md
+      - Proposta: estrutura/proposta.md
+      - Conclusao: estrutura/conclusao.md
+  - PICOC: picoc.md
+  - Rapid Review: rapid_review.md
 
 plugins:
-- search
+  - search
 
 markdown_extensions:
-- admonition
-- attr_list
-- toc:
-permalink: true
+  - admonition
+  - attr_list
+  - toc:
+      permalink: true
